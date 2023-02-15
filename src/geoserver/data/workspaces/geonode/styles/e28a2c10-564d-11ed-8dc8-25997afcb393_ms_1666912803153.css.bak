@@ -1,0 +1,10 @@
+@mode 'Flat';
+@styleTitle 'Dashed Border';
+
+/* @title Dashed Border */
+* {
+  stroke: #000000;
+  stroke-width: 2;
+  stroke-opacity: 1;
+  stroke-dasharray: 10 5;
+}

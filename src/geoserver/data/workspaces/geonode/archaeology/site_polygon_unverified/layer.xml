@@ -1,0 +1,27 @@
+<layer>
+  <name>site_polygon_unverified</name>
+  <id>LayerInfoImpl--6a0cee3d:18367d0a2b8:-7f67</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--be02ae1:1824ae90817:-7f72</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-3c310cc7:1841b34ee87:-7975</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c310cc7:1841b34ee87:-78d5</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6a0cee3d:18367d0a2b8:-7f68</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-09-23 03:04:27.104 UTC</dateCreated>
+  <dateModified>2022-10-27 23:25:53.496 UTC</dateModified>
+</layer>

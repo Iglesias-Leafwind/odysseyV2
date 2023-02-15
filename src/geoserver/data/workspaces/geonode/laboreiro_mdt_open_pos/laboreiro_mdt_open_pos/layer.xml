@@ -1,0 +1,19 @@
+<layer>
+  <name>laboreiro_mdt_open_pos</name>
+  <id>LayerInfoImpl-3c310cc7:1841b34ee87:-7f8a</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c310cc7:1841b34ee87:-7f77</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-3c310cc7:1841b34ee87:-7f8c</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-10-27 21:09:28.485 UTC</dateCreated>
+  <dateModified>2022-10-27 21:09:37.578 UTC</dateModified>
+</layer>

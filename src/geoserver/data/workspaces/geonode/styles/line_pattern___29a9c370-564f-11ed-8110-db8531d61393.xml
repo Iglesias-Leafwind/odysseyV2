@@ -1,0 +1,21 @@
+<style>
+  <id>StyleInfoImpl-3c310cc7:1841b34ee87:-7870</id>
+  <name>line_pattern___29a9c370-564f-11ed-8110-db8531d61393</name>
+  <workspace>
+    <id>WorkspaceInfoImpl-78ff667e:12476299803:-7ffd</id>
+  </workspace>
+  <format>css</format>
+  <languageVersion>
+    <version>1.0.0</version>
+  </languageVersion>
+  <filename>line_pattern___29a9c370-564f-11ed-8110-db8531d61393.css</filename>
+  <metadata>
+    <entry key="msEditorType">visual</entry>
+    <entry key="msStyleJSON">{&quot;name&quot;:&quot;Line Pattern&quot;,&quot;rules&quot;:[{&quot;name&quot;:&quot;Line Pattern&quot;,&quot;symbolizers&quot;:[{&quot;kind&quot;:&quot;Fill&quot;,&quot;graphicFill&quot;:{&quot;kind&quot;:&quot;Mark&quot;,&quot;wellKnownName&quot;:&quot;shape://slash&quot;,&quot;radius&quot;:4,&quot;strokeColor&quot;:&quot;#000&quot;,&quot;strokeWidth&quot;:1},&quot;symbolizerId&quot;:&quot;6f2cb741-564f-11ed-b344-abf7a89e6f74&quot;}],&quot;ruleId&quot;:&quot;6f2cb740-564f-11ed-b344-abf7a89e6f74&quot;}]}</entry>
+    <entry key="msMD5Hash">077c9f8f95d946cc278390a65ee8d66c</entry>
+    <entry key="description">Line Pattern</entry>
+    <entry key="title">Line Pattern</entry>
+  </metadata>
+  <dateCreated>2022-10-27 23:29:12.190 UTC</dateCreated>
+  <dateModified>2022-10-27 23:31:15.97 UTC</dateModified>
+</style>

@@ -1,0 +1,19 @@
+<layer>
+  <name>laboreiro_mdt_hillshade</name>
+  <id>LayerInfoImpl-3c310cc7:1841b34ee87:-7fd4</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c310cc7:1841b34ee87:-7fc6</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-3c310cc7:1841b34ee87:-7fd6</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-10-27 21:08:43.696 UTC</dateCreated>
+  <dateModified>2022-10-27 21:08:54.249 UTC</dateModified>
+</layer>

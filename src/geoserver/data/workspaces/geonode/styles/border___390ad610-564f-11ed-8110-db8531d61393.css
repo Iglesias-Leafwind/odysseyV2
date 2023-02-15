@@ -1,0 +1,8 @@
+@mode 'Flat';
+@styleTitle 'Border';
+
+/* @title Black Border */
+* {
+  stroke: #333;
+  stroke-width: 1;
+}

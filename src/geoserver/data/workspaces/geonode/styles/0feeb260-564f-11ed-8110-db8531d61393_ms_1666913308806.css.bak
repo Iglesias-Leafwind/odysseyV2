@@ -1,0 +1,13 @@
+@mode 'Flat';
+@styleTitle '${styleTitle}';
+@styleAbstract '${styleAbstract}';
+
+* {
+    fill: symbol('shape://slash');
+    :fill {
+        size: 8;
+        stroke: #000;
+        stroke-width: 1;
+        stroke-linecap: round;
+    };
+}

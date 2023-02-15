@@ -1,0 +1,27 @@
+<layer>
+  <name>occurrence_polygon_verified_tp</name>
+  <id>LayerInfoImpl--6a0cee3d:18367d0a2b8:-7f5a</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--be02ae1:1824ae90817:-7f72</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-3c310cc7:1841b34ee87:-7a0f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c310cc7:1841b34ee87:-7860</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6a0cee3d:18367d0a2b8:-7f5b</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-09-23 03:14:17.613 UTC</dateCreated>
+  <dateModified>2022-10-27 23:21:11.651 UTC</dateModified>
+</layer>

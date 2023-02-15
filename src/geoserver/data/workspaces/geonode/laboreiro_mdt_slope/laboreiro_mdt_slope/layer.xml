@@ -1,0 +1,19 @@
+<layer>
+  <name>laboreiro_mdt_slope</name>
+  <id>LayerInfoImpl-3c310cc7:1841b34ee87:-7f64</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c310cc7:1841b34ee87:-7f53</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-3c310cc7:1841b34ee87:-7f66</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-10-27 21:09:49.823 UTC</dateCreated>
+  <dateModified>2022-10-27 21:09:57.559 UTC</dateModified>
+</layer>

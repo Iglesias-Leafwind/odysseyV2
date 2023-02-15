@@ -1,0 +1,10 @@
+@mode 'Flat';
+@styleTitle '${styleTitle}';
+@styleAbstract '${styleAbstract}';
+
+* {
+    stroke: #333;
+    stroke-dasharray: 10 5;
+    stroke-width: 2;
+    stroke-opacity: 0.5;
+}

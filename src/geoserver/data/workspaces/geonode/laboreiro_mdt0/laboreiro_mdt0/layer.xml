@@ -1,0 +1,19 @@
+<layer>
+  <name>laboreiro_mdt0</name>
+  <id>LayerInfoImpl--51b8fa52:1852b1cafb4:-7ffd</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--51b8fa52:1852b1cafb4:-7ff8</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--51b8fa52:1852b1cafb4:-7fff</id>
+  </resource>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-12-19 15:59:38.477 UTC</dateCreated>
+  <dateModified>2022-12-19 15:59:45.105 UTC</dateModified>
+</layer>

@@ -1,0 +1,21 @@
+<style>
+  <id>StyleInfoImpl-3c310cc7:1841b34ee87:-7860</id>
+  <name>border___390ad610-564f-11ed-8110-db8531d61393</name>
+  <workspace>
+    <id>WorkspaceInfoImpl-78ff667e:12476299803:-7ffd</id>
+  </workspace>
+  <format>css</format>
+  <languageVersion>
+    <version>1.0.0</version>
+  </languageVersion>
+  <filename>border___390ad610-564f-11ed-8110-db8531d61393.css</filename>
+  <metadata>
+    <entry key="msEditorType">visual</entry>
+    <entry key="msStyleJSON">{&quot;name&quot;:&quot;Border&quot;,&quot;rules&quot;:[{&quot;name&quot;:&quot;Black Border&quot;,&quot;symbolizers&quot;:[{&quot;kind&quot;:&quot;Line&quot;,&quot;color&quot;:&quot;#333&quot;,&quot;width&quot;:1,&quot;symbolizerId&quot;:&quot;60e30811-564f-11ed-b344-abf7a89e6f74&quot;}],&quot;ruleId&quot;:&quot;60e30810-564f-11ed-b344-abf7a89e6f74&quot;}]}</entry>
+    <entry key="msMD5Hash">de656228e4e11f9959b6c6093f48427d</entry>
+    <entry key="description">Border</entry>
+    <entry key="title">Border</entry>
+  </metadata>
+  <dateCreated>2022-10-27 23:29:37.886 UTC</dateCreated>
+  <dateModified>2022-10-27 23:30:50.821 UTC</dateModified>
+</style>

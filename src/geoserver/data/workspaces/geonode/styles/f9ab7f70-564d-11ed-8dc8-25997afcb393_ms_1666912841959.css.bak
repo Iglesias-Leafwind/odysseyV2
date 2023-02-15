@@ -1,0 +1,13 @@
+@mode 'Flat';
+@styleTitle 'Line Pattern';
+
+* {
+  fill: symbol('shape://slash');
+  :fill {
+    fill: #417505;
+    fill-opacity: 1;
+    stroke: #000;
+    stroke-width: 1;
+    size: 8;
+  };
+}
