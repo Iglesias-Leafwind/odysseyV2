@@ -500,7 +500,7 @@ def stop_django(options):
     """
     if ASYNC_SIGNALS:
         kill('python', 'celery')
-    kill('python', 'gunicorn')
+    kill('python', 'runserver')
     kill('python', 'runmessaging')
 
 
@@ -569,15 +569,14 @@ def start_django(options):
     bind = options.get('bind', '0.0.0.0:8000')
     port = bind.split(":")[1]
     foreground = '' if options.get('foreground', False) else '&'
-    #sh(f'{settings} python -W ignore manage.py runserver {bind} {foreground}')
-    sh(f'{settings} gunicorn --bind {bind} --workers 4 geonode_odyssey.wsgi &')
-    
+    sh(f'{settings} python -W ignore manage.py runserver {bind} {foreground}')
+
     if ASYNC_SIGNALS:
         sh(f"{settings} celery -A geonode.celery_app:app worker --without-gossip --without-mingle -Ofair -B -E \
             --statedb=worker.state --scheduler={CELERY_BEAT_SCHEDULER} --loglevel=DEBUG \
             --concurrency=2 -n worker1@%h -f celery.log {foreground}")
         sh(f'{settings} python -W ignore manage.py runmessaging {foreground}')
-        
+
     # wait for Django to start
     started = waitfor(f"http://localhost:{port}")
     if not started:

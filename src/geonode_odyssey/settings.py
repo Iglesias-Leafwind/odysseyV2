@@ -157,5 +157,3 @@ LEAFLET_CONFIG = {
     'SCALE': 'both',
     'NO_GLOBALS': 'False',
 }
-
-ALLOWED_HOSTS = ['localhost','127.0.0.1']
